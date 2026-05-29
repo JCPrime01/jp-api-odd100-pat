@@ -24,6 +24,6 @@
       return;
     }
 
-    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/zy1z1vkz?shareCode=NAP0SIAYUWH&afp_campaign=tapi100' });
+    res.writeHead(302, { Location: 'https://go.aff.esportiva.bet/zy1z1vkz?shareCode=QM37GAS1NGI&afp_campaign=tapi100' });
     res.end();
   }
